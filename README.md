@@ -1,3 +1,5 @@
+Based on [emertechie/SyslogNet](https://github.com/emertechie/SyslogNet "emertechie/SyslogNet") source code.
+
 SyslogNet
 =========
 
